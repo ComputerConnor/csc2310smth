@@ -1,0 +1,30 @@
+Building
+    Attributes: Name, location, capacity, construction year, number of floors
+    Academic:
+        Attributes: Number of classrooms, number of lecture halls, lab availability
+    Dorm:
+        Attributes: Number of rooms, number of residents, shared spaces
+    Recreational:
+        Attributes: Facility type, equipment availability, membership requirements
+    Administrative:
+        Attributes: Departments housed, staff capacity, public accessibility
+    Services:
+        Attributes: Service type, sappointment availability, emergency resources
+
+Business
+    Attributes: Name, location, revenue, operating hours, floor spaces
+    Bookstore:
+        Attributes: Inventory size, number of employees, affiliated university merchandise
+    Retail:
+        Attributes: Product categories, customer capacity, payment methods
+    Food:
+        Attributes: Cuisine type, seating capacity, meal plans accepted
+    
+Parking:
+    Attributes: Name, location, type, total spots, permits issued, security features
+
+Transit Stop:
+    Attributes: Name, location, route number, schedule, transit type, accessibility options
+
+Landmark:
+    Attributes: Name, location, purpose, maintenance schedule, historical significance
